@@ -1,0 +1,6 @@
+PyYAML==6.0.1
+torch
+torchvision
+timm
+einops
+rasterio
