@@ -1,3 +1,10 @@
+import torch
+from torchvision import transforms
+import torchvision.transforms.functional as F
+import random
+from PIL import Image
+
+
 training_losses = []
 training_accuracies = []
 training_ious = []
